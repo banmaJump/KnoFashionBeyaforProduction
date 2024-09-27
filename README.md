@@ -1,5 +1,5 @@
 <br>
-以下のファイルをご確認ください => [https://banmajump.github.io/KnoFashionBeya/]  
+以下のファイルをご確認ください。This is a detailed document file.详细解释如下 => [https://github.com/banmaJump/KnoFashionBeyaforProduction/blob/main/src/assets/Document.pdf]  
 <br>
 
 # 日本語  
@@ -22,7 +22,7 @@
   &emsp;
   #### KnoFashionBeya-forProduction: 
    &emsp;&emsp;インストールして動作可能なリポジトリです。こちらに詳しい実装方法が記載してあります。ぜひこちらをご確認ください。  
-   &emsp;&emsp;=> [https://banmajump.github.io/KnoFashionBeya/]  
+   &emsp;&emsp;=> [https://github.com/banmaJump/KnoFashionBeyaforProduction.git]  
 <br>
 <br>
 <br>  
@@ -45,7 +45,8 @@ This website is an interactive platform where you can delve deeper into the worl
 ***About the GitHub Repository***
   &emsp;
   #### KnoFashionBeya-forProduction:
-  &emsp;&emsp; This is the repository that can be installed and run.  Detailed implementation instructions are provided there.Please check it out.  
+  &emsp;&emsp; This is the repository that can be installed and run.  Detailed implementation instructions are provided there.Please check it out. 
+  &emsp;&emsp;=> [https://github.com/banmaJump/KnoFashionBeyaforProduction.git] 
 <br>  
 <br>  
 <br>  
@@ -66,4 +67,5 @@ This website is an interactive platform where you can delve deeper into the worl
 ### <span>关于GitHub仓库</span>
 #### &emsp;<span>KnoFashionBeya-forProduction:</span>
 &emsp;&emsp;这是可安装并运行的仓库。其中包含详细的实现方法。请检查一下。
+&emsp;&emsp;=> [https://github.com/banmaJump/KnoFashionBeyaforProduction.git] 
 <br>
